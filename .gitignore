@@ -1,0 +1,6 @@
+# package directories
+node_modules
+jspm_packages
+
+video.mp4
+summary.txt

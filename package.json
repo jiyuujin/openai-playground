@@ -1,0 +1,17 @@
+{
+  "name": "openai-playground",
+  "version": "1.0.0",
+  "description": "",
+  "author": "jiyuujin <jiyuujinunite@gmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "node --require esbuild-register main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "20.1.3",
+    "esbuild-register": "3.4.2",
+    "openai": "3.2.1",
+    "typescript": "5.0.4",
+    "ytdl-core": "4.11.4"
+  }
+}
